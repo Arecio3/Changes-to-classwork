@@ -1,0 +1,12 @@
+header {
+    font-size: 50px;
+    font-family:cursive ;
+} 
+
+
+img {
+    
+    height: 250px;
+    width: 200px;
+    border: solid 10px blue;
+}
